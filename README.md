@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/0iml0ktjmnp211yr?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/symbols-iterators-generators-hw11)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
